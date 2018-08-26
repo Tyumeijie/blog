@@ -100,4 +100,5 @@ person.constructor === Person.prototype.constructor
 
 ```javascript
    console.log("hello vue")
+   console.log("hello Yumeijie")
 ```
